@@ -1,0 +1,23 @@
+#navbar{
+    display: flex;
+    background-color: aqua;
+    color:brown;
+    justify-content: space-around;
+}
+
+#display{
+    display: grid;
+    text-align: center;
+    grid-template-columns: repeat(4,1fr);
+    gap:20px;
+}
+
+
+#poster{
+    height: 400px;
+    width: 300px;
+}
+#cimage{
+    height:250px;
+    width:200px;
+}
